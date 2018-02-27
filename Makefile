@@ -13,7 +13,3 @@ flash:
 console:
 	echo "Ctrl-A + Ctrl-Q to close Picocom"
 	picocom -b115200 /dev/ttyUSB0
-	
-dep:
-	sudo apt install python3-pip
-	sudo pip3 install adafruit-ampy
