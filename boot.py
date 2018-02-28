@@ -2,4 +2,4 @@
 import network
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
-wlan.connect("itcollege")
+wlan.connect("k-space.ee guest")

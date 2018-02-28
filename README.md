@@ -6,7 +6,7 @@ This howto assumes Ubuntu 16.04 is used on the computer and several tools have b
 
 ```
 sudo apt install picocom make python3-pip
-sudo pip3 install esptool.py adafruit-ampy
+sudo pip3 install esptool adafruit-ampy
 ```
 
 Clone the Git repository and run makefiles:
